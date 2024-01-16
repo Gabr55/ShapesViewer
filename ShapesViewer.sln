@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesViewer", "Shapes\ShapesViewer.csproj", "{5A7693C8-928E-43DE-A9B8-C0C4610A41C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesViewer", "ShapesViewer\ShapesViewer.csproj", "{5A7693C8-928E-43DE-A9B8-C0C4610A41C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
